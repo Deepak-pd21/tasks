@@ -1,0 +1,14 @@
+*{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.anim {
+  box-shadow: 0px 0px 0px rgb(0, 0, 0);
+  transition: all 250ms;
+}
+.anim:hover {
+  box-shadow: 0px 0px 15px rgb(253, 252, 252);
+}
+.carousel-item{
+    border-color: white;
+}
